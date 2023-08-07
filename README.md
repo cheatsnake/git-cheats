@@ -1,4 +1,4 @@
-# Git cheats
+# Quick Git
 
 [`English`](./README.md) [`Русский`](./README_RUS.md)
 
